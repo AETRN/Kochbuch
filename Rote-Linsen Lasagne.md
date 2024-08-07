@@ -14,7 +14,7 @@
 | 600 ml | Gemüsebrühe       |                                       |
 | 500 g  | Passierte Tomaten |                                       |
 | 200 g  | Crème fraîche     | oder Schmand                          |
-| 200g   | Mozzarella Light  | zum überbacken                        |
+| 200 g  | Mozzarella Light  | zum überbacken                        |
 | 9      | Lasagneplatten    | kann variieren                        |
 | n. B   | Öl                | zum braten                            |
 | 2 EL   | (frische) Kräuter | Basilikum, Thymian, Rosmarin, Oregano |
