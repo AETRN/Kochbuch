@@ -1,4 +1,4 @@
-# Rote Linsen Lasagne
+# Pelmenisuppe
 
 | Schwierigkeit | Dauer          |
 |:-------------:|:---------------|
