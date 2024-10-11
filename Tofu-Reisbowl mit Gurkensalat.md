@@ -27,14 +27,16 @@
 ## Nährwerte (ca.)
 |         | kCal | Kohlenhydrate in g | Fett in g | Proteine in g |
 |---------|:----:|:------------------:|:---------:|:-------------:|
-| Gesamt  | x |        x         |    x     |      x       |
-| Portion | x  |         x         |    x     |      x       |
+| Gesamt  |  x   |         x          |     x     |       x       |
+| Portion |  x   |         x          |     x     |       x       |
 
 ## Zubereitung
+### Reis
+0. Reis waschen, salzen und nach Reiskocher- oder Packungsanleitung kochen.
 ### Tofu
 1. Tofu in Würfel schneiden.
 2. Tofu mit ca. 30 g Maisstärke vermengen.
-3. Tofu in ca. 4 EL knusprig in einer  Pfanne ausbacken.
+3. Tofu in ca. 4 EL Öl knusprig in einer  Pfanne ausbacken.
 ### Sauce
 4. 3 Zehen Knoblauch schälen und fein hacken oder pressen.
 5. Sojasoße mit einem Esslöffel Sesamöl und braunen Zucker vermengen.
