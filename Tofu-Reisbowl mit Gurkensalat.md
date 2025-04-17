@@ -7,7 +7,7 @@
 ## Zutaten für 4 Portionen
 |     Menge | Zutat                        | Bemerkung                                       |
 |----------:|:-----------------------------|:------------------------------------------------|
-|     500 g | Tofu natur                   | vorzugsweise Seidentofu                         |
+|     500 g | Tofu natur                   |                         |
 |      45 g | Maisstärke                   | ca. 30 g f. Tofu und 15 g zum Andicken der Soße |
 |      9 EL | Öl                           |                                                 |
 |     375 g | Jasminreis                   | vorzugsweise Vollkorn                           |
