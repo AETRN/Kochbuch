@@ -9,7 +9,7 @@
 |----------:|:-----------------------------|:------------------------------------------------|
 |     500 g | Tofu natur                   |                         |
 |      45 g | Maisstärke                   | ca. 30 g f. Tofu und 15 g zum Andicken der Soße |
-|      9 EL | Öl                           |                                                 |
+|      8-9 EL | Öl                           |                                                 |
 |     375 g | Jasminreis                   | vorzugsweise Vollkorn                           |
 |      2 EL | Sesamöl                      |                                                 |
 |     60 ml | Wasser                       |                                                 |
@@ -36,7 +36,7 @@
 ### Tofu
 1. Tofu in Würfel schneiden.
 2. Tofu mit ca. 30 g Maisstärke vermengen.
-3. Tofu in ca. 4 EL Öl knusprig in einer  Pfanne ausbacken.
+3. Tofu in ca. 3-4 EL Öl knusprig in einer  Pfanne ausbacken.
 ### Sauce
 4. 3 Zehen Knoblauch schälen und fein hacken oder pressen.
 5. Sojasoße mit einem Esslöffel Sesamöl und braunen Zucker vermengen.
